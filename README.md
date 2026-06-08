@@ -9,3 +9,4 @@ It's what the title says. Press a button and it reads the weather to you out lou
 
 ## Timeline
 Sunday, June 7th, 2026: Boards ordered and set to arrive on Monday, June 8th, 2026
+Monday, June 8th, 2026: Stuff arrived almost 12 HOURS LATE??? On the Amazon pagr it said overnight! It arrived at 6:00! Got familliar with Arduino softeare and the board itself and connected to internet amd made some small sample MicroPython examples
